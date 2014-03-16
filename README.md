@@ -171,11 +171,11 @@ Agilion has high standards and stretch goals.
 
 Our success comes from the success mindset of our team and customers.   
 
-Overall morale and happiness of the team is crucial.  No one likes a downer and *constant pessimist.  Negative energy can cripple the health of a team that needs be creative and produce results.    Bring your best to the work environment and encourage others to do the same.   
+Morale and happiness of the team is crucial.  No one likes a downer and *constant pessimist.  Negative energy cripples the health of a team which needs be creative and produce results.    Bring your best to the work environment and encourage others to do the same.   
 
-**constant pessimist is not to be confused with realistic project analysis and assessments. *
+**constant pessimist is not to be confused with realistic project analysis and assessments.*
 
-All that being said.  Not everyone can keep a positive outlook all the time. When you're having trouble with attitude, then we encourage the following 
+All that being said.  No one can keep a positive outlook all the time. When you're having trouble with attitude, then we encourage the following 
 
 Three steps to work through negative emotions and regain positive outlook.
 
