@@ -384,15 +384,15 @@ Most likely Agilion will be at capacity for the current month.  So we'll inform 
 | :---------| :---------------------| :-------------| :----------- | 
 | Project 1 |  200 hrs | 200 hrs | 80 hrs |
 | Project 2 | 300 hrs | 200 hrs | - |
-| Project 3 | 80 hrs  | - |
+| Project 3 | 80 hrs  | - | - | 
 | TOTAL | 580 hrs | 400 hrs | 80 hrs | 
-| % Capacity | FULL | 70% | 35% | 
+| % Capacity | FULL | 69% | 14% | 
 
-While prospects and customers may give of verbal estimates of how many hours they want in the future, we can only reserve time when a customer physically allocates appropriate budget funds into a 3rd party escrow account.  Funds are only paid to Agilion when we've invoiced for actual hours completed.  This is a win-win situation because it ensures customers are fully committed and we don't pass up other customers who would have paid.  It also gives customers peace of mind that they only pay when service is delivered.
+While prospects and customers may give of verbal estimates of how many hours they want in the future, we can only reserve time when a customer physically allocates appropriate budget funds into a 3rd party escrow account.  Funds are only paid to Agilion when we've invoiced actual hours completed.  This is a win-win situation because it ensures customers fully commit to the work and we don't pass up other opportunities with our other loyal customers.  It provides customers with peace of mind that they only pay when service is delivered.
 
-In the example above, assuming we have 180 hours available the next month, and 500 hours available the 3rd month, then the customer may choose to reserve blocks of time within those constraints.
+In the example above, assuming we have 180 hours available the next month, and 500 hours available the 3rd month, then the customer may choose to reserve an appropriate amount of time within those time block constraints.
 
-Then, the steps are very simple.  Customer agrees to a budget, we coordinate the escrow fund deposit, and then we incorporate the work into our weekly development flow.  Everyone is happy.
+Then, the steps for project management estimates are very simple.  The customer agrees to a budget, we coordinate the escrow fund deposit, and then we incorporate the work into our weekly development flow.  We strive to get as much quality work done within that timeframe.  Everyone is happy.
 
 
 #### 8. Product development
@@ -407,24 +407,28 @@ General sequence of product development activity includes
 4. Front-end UX/UI implementation
 5. Back-end implementation
 6. Testing and deployment
-7. Repeat 2-5 in quick iterations
+7. Repeat 2-6 in quick iterations
 
 #### 9. Billings, time tracking and expenses
 
 *Customer Billings*
+
 1. Upfront fee for LeanVision Workshop
 2. Customer deposits budget for the next month in 3rd party escrow account.
 3. Agilion invoices on the 1st & 16th of each month based on billable hours.
 4. Invoices are paid automatically from escrow account.
 
 *Time tracking*
-1. Everyone at Agilion is to record billable time through LetsFreckle in the same day the hours are executed on.
-2. Anyone can check the LetsFreckle *pulse* to see who is billing time on which projects
+
+1. Everyone records billable time through LetsFreckle the same day you did the work.
+2. Anyone can check LetsFreckle *pulse* to see who is billing time on which projects
+3. Everyone must write a brief and descriptive log of what they did on the time record.  Example: *Customer check-in, plan and code XYZ task*
 
 *Expenses*
-1. The leaner Agilion operates, then the more availability for cash bonuses to employees
+
+1. The leaner Agilion operates, then more available cash bonuses for employees
 2. Partners must approve all company expenses.
-3. In general Agilion pays for team meals, office, key vendors and web subscriptions, and marketing and sales operations, and allocated owner expenses.
+3. In general Agilion pays for team meals, office, key vendors and subscriptions, marketing and sales operations, and allocated owner expenses.
 
 #### 10. Sales
 
