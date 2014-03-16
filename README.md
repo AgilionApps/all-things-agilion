@@ -185,7 +185,7 @@ Three steps to work through negative emotions and regain positive outlook.
 
 3.  **Change your perspective**.  After you've done the above, then take a moment to think about how you're thinking about the problem.  Can you explore any new angles?  Seek collaboration with the team and customers when appropriate.   Determine potential solutions for the problem, and then solve it.  Solving things is why you get paid.   
  
-####Adopt Agilion Values
+####Adopt Agilion values
 
 Act and resonate with a level of commitment matching Agilion values.  If it feels natural to you, then you’ll do very well.   If it doesn't, then it's best for everyone if you move on to another organization and seek collaboration with others that match your values.
 
@@ -219,7 +219,7 @@ As Richard Branson once quoted:  "*What works once may never work again. What ev
 
 Agilion's highest value is approaching every new situation with a unique ability to understand core problems, then innovate and produce solutions by leveraging the skill and experience of our product team.  
 
-Any other activity in our business is subject to elimination, outsourcing, or processes, so that our creative energy can be free towards adding the most value for ourselves and customers.  
+Any other activity in our business is subject to elimination, outsourcing, or processes.  We do this so that our creative energy can be free towards adding the most value for ourselves and customers.  
 
 Agilion's processes.
 
@@ -382,6 +382,36 @@ Agilion sales process
 3. If qualified send a LeanVision quote, if not refer to someone in our network who may be better suited to help.
 4. Spend no more then two hours discussing questions with a prospect about LeanVision or work we do at Agilion throughout their sales cycle (i.e.: from first contact to quote).    If a prospect doesn't decide and move forward with LeanVision quote after two hours of interactions, then they're likely not the best type of customer fit for Agilion.  We want customers who can make decisions.
 5. Upon acceptance of a LeanVision quote, schedule the workshop and prep agreements and a new customer orientation.
+
+#### 10. Tech Steck Fundamentals
+
+Technology and tools change fast, but an individuals core compentancies, depth of understanding and ability to apply best practices is an ongoing path of mastery. 
+
+At Agilion, we are fairly technology agnostic, but must ensure at the most basic level everyone on the team has a grasp of the current tech stack we most often employ.
+
+**The basics** that everyone at Agilion must understand at both a theoretical and technical level:
+
+* Generalist awareness of W3C web standards ( http://www.w3.org/TR/ )
+* Principles for good interface designs
+* Principles for continuous flow development
+* Principles for product and project management
+* Principles for team collaboration and problem solving
+* Principles for product marketing and positioning
+* Web and mobile application arhcitecture patterns
+* Relational database design patterns
+* Non-relational database design patterns
+* API design patterns
+* Object-oriented programming fundementals and best practices
+* Functional programming fundementals and best practices
+* HTML5 programming language ( http://www.html5rocks.com/ )
+* CSS3 programming language
+* Javascript programming language
+* Ruby programming language
+* SQL database language
+* Less css-pre processor ( http://lesscss.org/ )
+* Ruby on rails server-side framework  ( http://rubyonrails.org/ )
+* Ember javascript framework ( http://emberjs.com/ )
+
 
 
 ##Agilion team
