@@ -281,23 +281,30 @@ Within 90 days a new employee must be effectively succeeding on the the three Ag
 First 90 day benchmarks for new employees
 
 *Day 1*
+
 * Access and accounts to all things: *new email, Github, web services, etc.*
 * Localhost set-up & orientation on tech-stacks and Agilion documentation 
 * Open your first pull request to add your bio to company website
 
 *Day 2*
+
 * Shadow another employee on a contract for the day
 * Goal setting session with CEO
 
 *Day 3 - 10*
+
 * Kick-off an internal Agilion project  (i.e.: Marketing website, internal tools, etc)
+* Learn Agilion processes and basic tech stack
 * The team will be looking to catch you do something right, and provide positive feedback
 
 *Day 11 - 90*
+
 * Integrate into billable contracts; (Agilion may or may not bill out your hours depending on the results)
+* Learn Agilion processes and basic tech stack
 * The team will be looking to catch you do something right, and provide positive feedback
 
 *Day 90+* 
+
 * Collective decision will be made to retain you on the team or let you go based on your results of the first 90 days.
 * You will now do your own goal setting, direct yourself to contracts, and become remarkable to the organization.  
 
@@ -321,13 +328,15 @@ Every monday morning, Agilion reviews the status of each project in the portfoli
 
 All projects are tracked on Agilion's *Active Project Portfolio* spreadsheet.
 
-Each project must have 
+*Each project must have*
+ 
 * designated project lead
 * clear purpose and main goal for Agilion
 * Updated project status every monday
 * Updated budget forecast every monday
 
-General guidelines 
+*General guidelines*
+
 * Try to focus on one project in a week
 * If you are working on multiple projects, then try focusing at least a full day on one contract to limit task switching
 * Red-flag if your task switching more than 2 projects in a given week.
