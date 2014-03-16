@@ -355,32 +355,30 @@ We believe web and mobile applications are always in constant improvement and it
 
 Agilion does our best to approximate and guess hours for each major task at the beginning of each week, however this number is only a ball park guess and should treated as such. 
 
-While some people may laugh or not understand this next concept, it is something that we believe is a natural law.
+There is a catch-22 phenomena in project management.  As soon as you estimate a specific thing to be completed by a future date at a future cost, then you're already setting everyone up for broken promises and disappointments because no one is able to control external circumstances which may or may not occur.   
 
-An individual can really only *control* one thing:  **his or her own thoughts.**.
+On the other hand, if people are too timid, fearful or hesitant about setting targeted timeframes and they push expectations to far out into the future in fear of disappointing people when missing deadlines,  then the actual work may not be executed in the most effective way and it will expand to absorb the estimated timelines.
 
-In project management, budgeting and estimation, there is a catch-22 phenomena that as soon as a specific estimate of accomplishing a specific thing by a future date at a future cost is made.. then we're already likely setting everyone up for broken promises because no one can control external circumstances which may or may not occur.   
+This next concept, is something that we believe is a natural or universal law. 
 
-However, if people are to timid and push expectations far out into the future in fear of disappointing people when missing deadlines,  then the work may not be executed in the most effective way and expand to absorb the estimated timelines.
+An individual is only able to *control* one thing:  **his or her own thoughts.**.
 
-What an individual at Agilion can commit to is that as an individual we will execute to the best of our ability within the time & budget constraints.   We will be creative, use constraints to our advantage and deliver in the best way we can while adapting to the changing external circumstances.
+An individual at Agilion is able too *commit* to how they will operate.   They can commit to execute to the best of their ability within the time & budget constraints.   As a team, we will be creative, use constraints to our advantage and deliver in the best way we can while adapting to the changing external circumstances.
 
-The art of project management and budgeting is thus to ensure our plans are as clear as possible, are as simple as possible, communicated effectively as possible, and that people bring their best efforts to execute and deliver.
+The art of project management and budgeting is thus to ensure plans are as clear as possible, are as simple as possible, communicated effectively as possible, and that people bring their best efforts to execute and deliver.
 
-If a prospect or customer does not understand this, laughs at this philosophy, or insists we provide fixed deadlines on specific deliverables, then it's best to not start or work on any project with that prospect, or suggest alternative vendors to the customer and part ways ammicably.
+If a prospect or customer does not understand this, laughs at this philosophy, or insists we provide fixed deadlines on specific deliverables, then it's best to not start any work agreement on that project with that prospect.  If it is a customer, then we should suggest alternative vendors and part ways amicably.
  
 Here is an example of how we schedule work and communicate budget constraints:
 
-Scheduling is done within the constraints of two things
+Scheduling is done within two constraints:
 
-1. Agilion's available billable hour capacity per month
-2. Customer's budget.
+1. Agilion's available billable hour capacity that month.
+2. The customer's budget.
 
-Example, an existing customer approaches us with a new requirement for their project.  They've already gone through our LeanVision process and we know how to work effectively together.
+For example, an existing customer approaches us with a requirement for their project.  They've already gone through our LeanVision process and so we know how to work effectively together.
 
-Most likely Agilion will be at capacity for the current month, and so we'll inform them how many hours we have available.  
-
-Our current project portfolio may look like this:
+Most likely Agilion will be at capacity for the current month.  So we'll inform the customer how many hours we have available.  An example project portfolio status may look like this:
 
 | Project | Current Month | Month 2 | Month 3 | 
 | :---------| :---------------------| :-------------| :----------- | 
@@ -390,10 +388,11 @@ Our current project portfolio may look like this:
 | TOTAL | 580 hrs | 400 hrs | 80 hrs | 
 | % Capacity | FULL | 70% | 35% | 
 
-While customer can give of verbal estimates of how many hours they want in the future, we can only reserve time when a customer allocates the appropriate budget funds into a 3rd party escrow account.  Funds are paid to Agilion when invoiced for actual hours completed.  This is a win-win situation because it ensures customers are fully committed, but it also give customers peace of mind they only pay when service is delivered.
+While prospects and customers may give of verbal estimates of how many hours they want in the future, we can only reserve time when a customer physically allocates appropriate budget funds into a 3rd party escrow account.  Funds are only paid to Agilion when we've invoiced for actual hours completed.  This is a win-win situation because it ensures customers are fully committed and we don't pass up other customers who would have paid.  It also gives customers peace of mind that they only pay when service is delivered.
 
-In the example above, assuming we have 180 hours available the next month, and 500 hours available the 3rd month...  the customer may choose to reserve blocks of time within those constraints.
+In the example above, assuming we have 180 hours available the next month, and 500 hours available the 3rd month, then the customer may choose to reserve blocks of time within those constraints.
 
+Then, the steps are very simple.  Customer agrees to a budget, we coordinate the escrow fund deposit, and then we incorporate the work into our weekly development flow.  Everyone is happy.
 
 
 #### 8. Product development
