@@ -240,12 +240,12 @@ Agilion's processes.
 Here is the process for what, when & why Agilion communicates.
 
 | What | When | Where| Why |
-| --------|:----------:|--------:|
-| Team breakfast | Mondays @ 8am| A restaurant in BTV  |  Team get-together & weekly plans|
+| :-------- |:---------- |:-------- | :------- |
+| Team breakfast | Mondays @ 8am | A restaurant in BTV  |  Team get-together & weekly plans |
 | Team SCRUM | 9am, T-F | Google hangout | Individual highlights from yesterday, today's plan, coordinations as needed |
 | Customer Checkins | 9:15 - 9:45 slots, T-F | Yesterdays progress, todays plan | coordinate as needed |
 | Internal Chat | asynchronous | Flowdock room | Collaborate as needed |
-| Face-to-face mtgs| only if needed | wherever it makes sense | better have a good reason, don't waste people's time |
+| Face-to-face mtgs | only if needed | wherever it makes sense | better have a good reason, don't waste people's time |
 
 #### 2. Collaboration & problem solving
 
@@ -393,7 +393,30 @@ Agilion sales process
 ###Brendan
 
 
-##Agilion vendors & service providers
-| Who | What | Why | When | Satisfaction Level |
-|--------|--------:|--------:|---------:|-------------------------:|
+##Agilion vendor & service providers
+| Vendor/Service | Why | Satisfaction Level |
+| :-------------- | :--------  | :------------------ |
+| GoogleApps.com | Infastructure of Email, Calendar, Docs, Spreadsheets |  Satisfied |
+| Github.com | Source code management, peer reveiws and collaboration |  Satisfied |
+| Flowdock.com | Team chat and inbox - real-time communication and email repo |  Satisfied |
+| Trello.com | Team Kanban board for daily task collaboration |  Satisfied |
+| Moqups.com | Wireframing collaboration tool |  Satisfied |
+| LucidCharts.com | Diagraming collaboration tool |  Satisfied |
+| Letsfreckle.com | Team time tracking tools |  Satisfied |
+| Xero.com | Accounting and invoicing tools |  Satisfied |
+| Bill.com | Checks reciept processing | Satisfied |
+| Stripe.com | Credit card reciept processing  | Satisfied |
+| SVB.com | Primary bank account and credit card | Ok for now |
+| Paypal.com | Secondary money account  | Ok for now |
+| ADP.com | Payroll processing | Seeking to replace |
+| Dunkielsaunders.com | Legal advice and laywers | Satisfied |
+| Hwhcpas.com | Financial advice and accountants | Satisfied |
+| Bookkeeper360.com | Bookeeping services | Satisfied |
+| Godady.com | Domain names | Ok for now |
+| Networksolutions.com | .IO Domain names | Seeking to replace |
+| Heroku.com | App hosting and services | Ok for now  |
+| aws.amazon.com | App hosting and services | Satisfied  |
+
+
+
 
