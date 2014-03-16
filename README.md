@@ -171,7 +171,7 @@ Agilion has high standards and stretch goals.
 
 Our success comes from the success mindset of our team and customers.   
 
-Overall moral and happiness of the team is crucial.  No one likes a downer and *constant pessimist.  Negative energy can cripple the health of a team that needs be creative and produce results.    Bring your best to the work environment and encourage others to do the same.   
+Overall morale and happiness of the team is crucial.  No one likes a downer and *constant pessimist.  Negative energy can cripple the health of a team that needs be creative and produce results.    Bring your best to the work environment and encourage others to do the same.   
 
 **constant pessimist is not to be confused with realistic project analysis and assessments. *
 
