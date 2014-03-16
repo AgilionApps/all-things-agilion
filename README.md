@@ -332,24 +332,69 @@ All projects are tracked on Agilion's *Active Project Portfolio* spreadsheet.
  
 * designated project lead
 * clear purpose and main goal for Agilion
-* Updated project status every monday
-* Updated budget forecast every monday
+* updated project status every monday
+* updated budget forecast every monday
 
 *General guidelines*
 
 * Try to focus on one project in a week
 * If you are working on multiple projects, then try focusing at least a full day on one contract to limit task switching
-* Red-flag if your task switching more than 2 projects in a given week.
-* Project lead always communicates budget & capacity expectations if things change immediately with customer
+* Red-flag if you're task switching more than two projects in a given week.
+* Project lead always communicates budget & capacity expectations immediately with customer if you know something changes estimates
 
 
-#### 7. Project budgeting
+#### 7. Project management, budgeting & estimation
 
 Any new project for Agilion must have gone through a 1-page LeanVision exercise such that the web or mobile application has a clear purpose, main goal and major tasks that represent core benefits for user(s).
 
 Based on the main goal and major tasks, customers are asked to set a do not exceed limit of hours on our monthly capacity budget towards the development of each task.     We work within those budget constraints and scope work accordingly.  The focus should be implementing elegant solutions with the least amount of time possible that still retains high quality.  If not enough time is budgeted for a task, then it's best to skip that task all together.
 
-At Agilion we do not set hard estimates or fixed date/fixed bid deliverables. We believe web and mobile applications are always in constant improvement and iteration.  We do our best to communication and iterate quickly which is always minimizing the customer cost at all times.   Agilion does our best to approximate and guess hours for each major task at the beginning of each week, however this number is only a ball park guess and should treated as such.  
+At Agilion we do not set hard estimates or fixed date/fixed bid deliverables. 
+
+We believe web and mobile applications are always in constant improvement and iteration.  We do our best to communication and iterate quickly which is always minimizing the customer cost at all times.   
+
+Agilion does our best to approximate and guess hours for each major task at the beginning of each week, however this number is only a ball park guess and should treated as such. 
+
+While some people may laugh or not understand this next concept, it is something that we believe is a natural law.
+
+An individual can really only *control* one thing:  **his or her own thoughts.**.
+
+In project management, budgeting and estimation, there is a catch-22 phenomena that as soon as a specific estimate of accomplishing a specific thing by a future date at a future cost is made.. then we're already likely setting everyone up for broken promises because no one can control external circumstances which may or may not occur.   
+
+However, if people are to timid and push expectations far out into the future in fear of disappointing people when missing deadlines,  then the work may not be executed in the most effective way and expand to absorb the estimated timelines.
+
+What an individual at Agilion can commit to is that as an individual we will execute to the best of our ability within the time & budget constraints.   We will be creative, use constraints to our advantage and deliver in the best way we can while adapting to the changing external circumstances.
+
+The art of project management and budgeting is thus to ensure our plans are as clear as possible, are as simple as possible, communicated effectively as possible, and that people bring their best efforts to execute and deliver.
+
+If a prospect or customer does not understand this, laughs at this philosophy, or insists we provide fixed deadlines on specific deliverables, then it's best to not start or work on any project with that prospect, or suggest alternative vendors to the customer and part ways ammicably.
+ 
+Here is an example of how we schedule work and communicate budget constraints:
+
+Scheduling is done within the constraints of two things
+
+1. Agilion's available billable hour capacity per month
+2. Customer's budget.
+
+Example, an existing customer approaches us with a new requirement for their project.  They've already gone through our LeanVision process and we know how to work effectively together.
+
+Most likely Agilion will be at capacity for the current month, and so we'll inform them how many hours we have available.  
+
+Our current project portfolio may look like this:
+
+| Project | Current Month | Month 2 | Month 3 | 
+| :---------| :---------------------| :-------------| :----------- | 
+| Project 1 |  200 hrs | 200 hrs | 80 hrs |
+| Project 2 | 300 hrs | 200 hrs | - |
+| Project 3 | 80 hrs  | - |
+| TOTAL | 580 hrs | 400 hrs | 80 hrs | 
+| % Capacity | FULL | 70% | 35% | 
+
+While customer can give of verbal estimates of how many hours they want in the future, we can only reserve time when a customer allocates the appropriate budget funds into a 3rd party escrow account.  Funds are paid to Agilion when invoiced for actual hours completed.  This is a win-win situation because it ensures customers are fully committed, but it also give customers peace of mind they only pay when service is delivered.
+
+In the example above, assuming we have 180 hours available the next month, and 500 hours available the 3rd month...  the customer may choose to reserve blocks of time within those constraints.
+
+
 
 #### 8. Product development
 
