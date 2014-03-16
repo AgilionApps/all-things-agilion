@@ -408,6 +408,7 @@ At Agilion, we are fairly technology agnostic, but must ensure at the most basic
 * Javascript programming language
 * Ruby programming language
 * SQL database language
+* Git ( http://git-scm.com/ )
 * Less css-pre processor ( http://lesscss.org/ )
 * Ruby on rails server-side framework  ( http://rubyonrails.org/ )
 * Ember javascript framework ( http://emberjs.com/ )
@@ -439,8 +440,9 @@ At Agilion, we are fairly technology agnostic, but must ensure at the most basic
 | SVB.com | Primary bank account and credit card | Ok for now |
 | Paypal.com | Secondary money account  | Ok for now |
 | ADP.com | Payroll processing | Seeking to replace |
-| Dunkielsaunders.com | Legal advice and laywers | Satisfied |
-| Hwhcpas.com | Financial advice and accountants | Satisfied |
+| Dunkielsaunders.com | Legal advice and laywer | Satisfied |
+| Hwhcpas.com | Financial advice, tax filings and accountant | Satisfied |
+| Bizfilings.com | Business registrant | Satisfied |
 | Bookkeeper360.com | Bookeeping services | Satisfied |
 | Godady.com | Domain names | Ok for now |
 | Networksolutions.com | .IO Domain names | Seeking to replace |
