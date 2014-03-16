@@ -242,8 +242,8 @@ Here is the process for what, when & why Agilion communicates.
 | What | When | Where| Why |
 | :-------- |:---------- |:-------- | :------- |
 | Team breakfast | Mondays @ 8am | A restaurant in BTV  |  Team get-together & weekly plans |
-| Team SCRUM | 9am, T-F | Google hangout | Individual highlights from yesterday, today's plan, coordinations as needed |
-| Customer Checkins | 9:15 - 9:45 slots, T-F | Yesterdays progress, todays plan | coordinate as needed |
+| Team SCRUM | 15min; 9am, T-F | Google hangout | Individual highlights from yesterday, today's plan, coordinations as needed |
+| Customer Checkins | 7-15 min. slots: 9:15 - 9:45am, T-F | Google hangouts | Highlight progress since last checkin, describe next tasks; coordinate as needed |
 | Internal Chat | asynchronous | Flowdock room | Collaborate as needed |
 | Face-to-face mtgs | only if needed | wherever it makes sense | better have a good reason, don't waste people's time |
 
@@ -345,7 +345,7 @@ All projects are tracked on Agilion's *Active Project Portfolio* spreadsheet.
 
 #### 7. Project management, budgeting & estimation
 
-Any new project for Agilion must have gone through a 1-page LeanVision exercise such that the web or mobile application has a clear purpose, main goal and major tasks that represent core benefits for user(s).
+Any new project for Agilion must have gone through a 1-page LeanVision exercise such that the web or mobile application has a clear purpose, main goal and major tasks that represent core benefits to a user(s).
 
 Based on the main goal and major tasks, customers are asked to set a do not exceed limit of hours on our monthly capacity budget towards the development of each task.     We work within those budget constraints and scope work accordingly.  The focus should be implementing elegant solutions with the least amount of time possible that still retains high quality.  If not enough time is budgeted for a task, then it's best to skip that task all together.
 
@@ -437,9 +437,9 @@ Agilion sales process
 4. Spend no more then two hours discussing questions with a prospect about LeanVision or work we do at Agilion throughout their sales cycle (i.e.: from first contact to quote).    If a prospect doesn't decide and move forward with LeanVision quote after two hours of interactions, then they're likely not the best type of customer fit for Agilion.  We want customers who can make decisions.
 5. Upon acceptance of a LeanVision quote, schedule the workshop and prep agreements and a new customer orientation.
 
-#### 10. Tech Steck Fundamentals
+#### 11. Tech Steck Fundamentals
 
-Technology and tools change fast, but an individuals core compentancies, depth of understanding and ability to apply best practices is an ongoing path of mastery. 
+Technology and tools change fast, but an individuals core competencies, depth of understanding and ability to apply best practices is an ongoing path of mastery. 
 
 At Agilion, we are fairly technology agnostic, but must ensure at the most basic level everyone on the team has a grasp of the current tech stack we most often employ.
 
@@ -451,12 +451,12 @@ At Agilion, we are fairly technology agnostic, but must ensure at the most basic
 * Principles for product and project management
 * Principles for team collaboration and problem solving
 * Principles for product marketing and positioning
-* Web and mobile application arhcitecture patterns
+* Web and mobile application architecture patterns
 * Relational database design patterns
 * Non-relational database design patterns
 * API design patterns
-* Object-oriented programming fundementals and best practices
-* Functional programming fundementals and best practices
+* Object-oriented programming fundamentals and best practices
+* Functional programming fundamentals and best practices
 * HTML5 programming language ( http://www.html5rocks.com/ )
 * CSS3 programming language
 * Javascript programming language
@@ -481,23 +481,23 @@ At Agilion, we are fairly technology agnostic, but must ensure at the most basic
 ##Agilion vendor & service providers
 | Vendor/Service | Why | Satisfaction Level |
 | :-------------- | :--------  | :------------------ |
-| GoogleApps.com | Infastructure of Email, Calendar, Docs, Spreadsheets |  Satisfied |
-| Github.com | Source code management, peer reveiws and collaboration |  Satisfied |
+| GoogleApps.com | Infrastructure of Email, Calendar, Docs, Spreadsheets |  Satisfied |
+| Github.com | Source code management, peer reviews and collaboration |  Satisfied |
 | Flowdock.com | Team chat and inbox - real-time communication and email repo |  Satisfied |
 | Trello.com | Team Kanban board for daily task collaboration |  Satisfied |
-| Moqups.com | Wireframing collaboration tool |  Satisfied |
+| Moqups.com | Wire framing collaboration tool |  Satisfied |
 | LucidCharts.com | Diagraming collaboration tool |  Satisfied |
 | Letsfreckle.com | Team time tracking tools |  Satisfied |
 | Xero.com | Accounting and invoicing tools |  Satisfied |
-| Bill.com | Checks reciept processing | Satisfied |
-| Stripe.com | Credit card reciept processing  | Satisfied |
+| Bill.com | Checks receipt processing | Satisfied |
+| Stripe.com | Credit card receipt processing  | Satisfied |
 | SVB.com | Primary bank account and credit card | Ok for now |
 | Paypal.com | Secondary money account  | Ok for now |
 | ADP.com | Payroll processing | Seeking to replace |
-| Dunkielsaunders.com | Legal advice and laywer | Satisfied |
+| Dunkielsaunders.com | Legal advice and lawyer | Satisfied |
 | Hwhcpas.com | Financial advice, tax filings and accountant | Satisfied |
 | Bizfilings.com | Business registrant | Satisfied |
-| Bookkeeper360.com | Bookeeping services | Satisfied |
+| Bookkeeper360.com | Bookkeeping services | Satisfied |
 | Godady.com | Domain names | Ok for now |
 | Networksolutions.com | .IO Domain names | Seeking to replace |
 | Heroku.com | App hosting and services | Ok for now  |
