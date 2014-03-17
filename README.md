@@ -276,7 +276,7 @@ Here are some general guidelines for developers at Agilion when communicating wi
 
 It is critical for a new employee ramp-up period to be as fast and as smooth as possible.
 
-Within 90 days a new employee must be effectively succeeding on the the three Agilion expectations: *Billable hours, positive attitude, company values*.
+Within 90 days a new employee must be effectively succeeding on the the three Agilion expectations: *Billable hours, positive attitude, company values*.  Continued employment after the 90 day probationary period is contingent on  meeting the Agilion expectations.
 
 First 90 day benchmarks for new employees
 
