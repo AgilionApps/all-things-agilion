@@ -23,7 +23,7 @@ Our highly skilled team is always improving and supporting our customers and emp
 ##Values
 
 ###High Standards
-Agilion values people and results.  Happy people produce high quality work.  Constant progress leads to happiness and fulfillment.  Agilion sets high standards and encourages continuos progression and stretch goals in all that we do.
+Agilion values people and results.  Happy people produce high quality work.  Constant progress leads to happiness and fulfillment.  Agilion sets high standards and encourages continuous progression and stretch goals in all that we do.
 
 ###Respectful communication
 Concise, clear and consistent communication is key to product and team success.  Regularly scheduled communications between Agilion and customers builds trust.
@@ -73,7 +73,7 @@ Hire two exceptional employees.
 Simple Version. 
 
 1. Identify the 20% of our activities that generates 80% of our most profitable results and satisfied customers.
-2. Refine and package those 20% activities into products or services for customers at a fee.
+2. Refine and package those 20% of our activities into products or services for customers at a fee.
 3. Eliminate everything else.
 4. Repeat steps 1, 2 & 3.
 
@@ -95,7 +95,7 @@ Agilion is owned and managed by partner owners who are responsible to clarify an
 
 ###Roles
 
-At Agilion everyone is a manger of one:  *Themselves.* 
+At Agilion everyone is a manager of one:  *Themselves.* 
 
 Everyone is in charge of their own career, setting an example, and being responsible to make things happen and align their workplace goals towards the success of the company vision.  We trust everyone acts in accordance with the collective values and strives for success.
 
@@ -103,11 +103,11 @@ In terms of individual responsibilities: employee's must be remarkable and work 
 
 Being remarkable is measured in producing great results within the minimum billable hour requirement and helping strengthen the reputation of Agilion as a premier product development agency.   
 
-Being remarkable happens through becoming an exceptional generalist while gaining depth and making contribution through a core strength and competence.   
+Being remarkable happens through becoming an exceptional generalist while gaining depth and making contributions through a core strength and competence.   
 
 Working well with strengths of other members on the team is essential for our collective success.  
 
-Everyone at Agilion may play aspects of all roles at Agilion from time to time, or acts where they see a need.  
+Everyone at Agilion may play aspects of all roles at Agilion from time to time or act where they see a need.  
 
 Roles in the company are broken down into two categories:  *Makers & Managers*.
 
@@ -173,7 +173,7 @@ Our success comes from the success mindset of our team and customers.
 
 Morale and happiness of the team is crucial.  No one likes a downer and *constant pessimist.  Negative energy cripples the health of a team which needs be creative and produce results.    Bring your best to the work environment and encourage others to do the same.   
 
-**constant pessimist is not to be confused with realistic project analysis and assessments.*
+**constant pessimism is not to be confused with realistic project analysis and assessments.*
 
 All that being said.  No one can keep a positive outlook all the time. When you're having trouble with attitude, then we encourage the following 
 
@@ -202,7 +202,7 @@ Hiring and firing is a collective decision making process.
 
 We always seek people with highest potential.  We seek high achievers and people who strive for success.
 
-If someone isn’t able to exceed at Agilion, then it’s likely a symptom of not being able to work as a team member or produce results through self-direction.
+If someone isn’t able to excel at Agilion, then it’s likely a symptom of not being able to work as a team member or produce results through self-direction.
 
 Ultimately, unanimous partner decision is needed to hire or fire an employee.  
 
@@ -215,7 +215,7 @@ General grounds for dismissal are as follows:
 
 ###Why we have processes
 
-As Richard Branson once quoted:  "*What works once may never work again. What everyone tells you never to do may just work, once. There are no rules.* "  
+As Richard Branson once said:  "*What works once may never work again. What everyone tells you never to do may just work, once. There are no rules.* "  
 
 Agilion's highest value is approaching every new situation with a unique ability to understand core problems, then innovate and produce solutions by leveraging the skill and experience of our product team.  
 
@@ -266,7 +266,7 @@ Everyone at Agilion talks to customers.  There is no *project manager gatekeeper
 Here are some general guidelines for developers at Agilion when communicating with customers:
 
 1. Always be professional, polite and think about the goals from our customer perspective. 
-2. If you're not clear on what the customer wants, then get clear by asking specific questions.  Use the six-sigma"why" method to understand root level motivations if needed.
+2. If you're not clear on what the customer wants, then get clear by asking specific questions.  Use the six-sigma "why" method to understand root level motivations if needed.
 3. Set clear expectations on when and why we communicate on a predictable schedule.   Agree on what type of information should be communicated immediately, vs. what can wait for checkins.  If a customer has a hard time prioritizing important actions vs. non-immediate distractions, then ask customer to verify the importance of requests to the LeanVision plan and main benefits.  Seek help from the team if needed.
 4. If a customer gives you a compliment, then reply with gratitude.
 5. If a customer treats you with disrespect, complains, or is being rude... then do not respond in haste unless you are emotionally clear-headed and can formulate respectful questions that help the customer describe emotions as problems.   Seek help from the team if needed.
@@ -295,13 +295,13 @@ First 90 day benchmarks for new employees
 
 * Kick-off an internal Agilion project  (i.e.: Marketing website, internal tools, etc)
 * Learn Agilion processes and basic tech stack
-* The team will be looking to catch you do something right, and provide positive feedback
+* The team will be looking to catch you doing something right, and provide positive feedback
 
 *Day 11 - 90*
 
 * Integrate into billable contracts; (Agilion may or may not bill out your hours depending on the results)
 * Learn Agilion processes and basic tech stack
-* The team will be looking to catch you do something right, and provide positive feedback
+* The team will be looking to catch you doing something right, and provide positive feedback
 
 *Day 90+* 
 
@@ -312,7 +312,7 @@ First 90 day benchmarks for new employees
 
 When possible the team enjoys making collective plans and decisions at weekly breakfast meetings that affect us all in the progression of our company. 
 
-However, as a company there will be thousands of micro decisions that must be made all the time. We expect you to make decisions and involve the right people when appropriate.   Some small decisions on projects require a customer input, some don't.  Some decisions for the company require Partner level input, some don't.   A lot of times it doesn't make economic sense to drag in people from billable work for a group decision.  
+However, as a company there will be thousands of micro decisions that must be made all the time. We expect you to make decisions and involve the right people when appropriate.   Some small decisions on projects require customer input, some don't.  Some decisions for the company require Partner level input, some don't.   A lot of times it doesn't make economic sense to drag in people from billable work for a group decision.  
 
 It also means you need to trust other people will make decisions without you because you're likely busy on billable work as well.
 
@@ -351,9 +351,9 @@ Based on the main goal and major tasks, customers are asked to set a do not exce
 
 At Agilion we do not set hard estimates or fixed date/fixed bid deliverables. 
 
-We believe web and mobile applications are always in constant improvement and iteration.  We do our best to communication and iterate quickly which is always minimizing the customer cost at all times.   
+We believe web and mobile applications are always in constant improvement and iteration.  We do our best to communicate and iterate quickly which is always minimizing the customer cost at all times.   
 
-Agilion does our best to approximate and guess hours for each major task at the beginning of each week, however this number is only a ball park guess and should treated as such. 
+Agilion does our best to approximate and guess hours for each major task at the beginning of each week, however this number is only a ball park guess and should be treated as such. 
 
 There is a catch-22 phenomena in project management.  As soon as you estimate a specific thing to be completed by a future date at a future cost, then you're already setting everyone up for broken promises and disappointments because no one is able to control external circumstances which may or may not occur.   
 
@@ -363,7 +363,7 @@ This next concept, is something that we believe is a natural or universal law.
 
 An individual is only able to *control* one thing:  **his or her own thoughts.**.
 
-An individual at Agilion is able too *commit* to how they will operate.   They can commit to execute to the best of their ability within the time & budget constraints.   As a team, we will be creative, use constraints to our advantage and deliver in the best way we can while adapting to the changing external circumstances.
+An individual at Agilion is able to *commit* to how they will operate.   They can commit to execute to the best of their ability within the time & budget constraints.   As a team, we will be creative, use constraints to our advantage and deliver in the best way we can while adapting to the changing external circumstances.
 
 The art of project management and budgeting is thus to ensure plans are as clear as possible, are as simple as possible, communicated effectively as possible, and that people bring their best efforts to execute and deliver.
 
@@ -388,7 +388,7 @@ Most likely Agilion will be at capacity for the current month.  So we'll inform 
 | TOTAL | 580 hrs | 400 hrs | 80 hrs | 
 | % Capacity | FULL | 69% | 14% | 
 
-While prospects and customers may give of verbal estimates of how many hours they want in the future, we can only reserve time when a customer physically allocates appropriate budget funds into a 3rd party escrow account.  Funds are only paid to Agilion when we've invoiced actual hours completed.  This is a win-win situation because it ensures customers fully commit to the work and we don't pass up other opportunities with our other loyal customers.  It provides customers with peace of mind that they only pay when service is delivered.
+While prospects and customers may give verbal estimates of how many hours they want in the future, we can only reserve time when a customer physically allocates appropriate budget funds into a 3rd party escrow account.  Funds are only paid to Agilion when we've invoiced actual hours completed.  This is a win-win situation because it ensures customers fully commit to the work and we don't pass up other opportunities with our other loyal customers.  It provides customers with peace of mind that they only pay when service is delivered.
 
 In the example above, assuming we have 180 hours available the next month, and 500 hours available the 3rd month, then the customer may choose to reserve an appropriate amount of time within those time block constraints.
 
@@ -402,7 +402,7 @@ Leveraging conventions and constraints to develop products helps to ensure Agili
 General sequence of product development activity includes
 
 1. 1-page LeanVision plan
-2. Identify a major feature
+2. Identifying a major feature
 3. Wireframe and architecture planning
 4. Front-end UX/UI implementation
 5. Back-end implementation
@@ -442,7 +442,7 @@ Agilion sales process
 
 #### 11. Tech Steck Fundamentals
 
-Technology and tools change fast, but an individuals core competencies, depth of understanding and ability to apply best practices is an ongoing path of mastery. 
+Technology and tools change fast, but an individual's core competencies, depth of understanding and ability to apply best practices is an ongoing path of mastery. 
 
 At Agilion, we are fairly technology agnostic, but must ensure at the most basic level everyone on the team has a grasp of the current tech stack we most often employ.
 
