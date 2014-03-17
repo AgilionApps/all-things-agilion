@@ -491,6 +491,7 @@ At Agilion, we are fairly technology agnostic, but must ensure at the most basic
 | Moqups.com | Wire framing collaboration tool |  Satisfied |
 | LucidCharts.com | Diagraming collaboration tool |  Satisfied |
 | Letsfreckle.com | Team time tracking tools |  Satisfied |
+| agilion.quoteroller.com | Proposals |  Satisfied |
 | Xero.com | Accounting and invoicing tools |  Satisfied |
 | Bill.com | Checks receipt processing | Satisfied |
 | Stripe.com | Credit card receipt processing  | Satisfied |
