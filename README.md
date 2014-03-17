@@ -113,7 +113,7 @@ Roles in the company are broken down into two categories:  *Makers & Managers*.
 
 ####Maker roles 
 
-A maker role is responsible for *building things.*
+The role of the maker is to *build things.*
 
 Maker schedules require zero to minimal meetings and interruptions in order to achieve a mental state of flow and creative productivity.
 
@@ -128,7 +128,7 @@ Maker roles include
  
 ####Manager roles
 
-A manager role is responsible for *building relationships.*
+The role of the manager is to *build relationships.*
 
 Manager schedules require more frequent task switching, communication and event scheduling in order to facilitate others outside the organization to contribute towards the success of the company.  
 
