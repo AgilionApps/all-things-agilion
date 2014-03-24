@@ -429,11 +429,11 @@ General sequence of product development activity includes
 
 Agilion sales process
 
-1. Lead requests info from a referral, website, or networking event.
-2. Schedule a 15-minute phone call to see if Agilion is a good fit and pre-qualify prospect.
-3. If qualified send a LeanVision quote, if not refer to someone in our network who may be better suited to help.
-4. Spend no more then two hours discussing questions with a prospect about LeanVision or work we do at Agilion throughout their sales cycle (i.e.: from first contact to quote).    If a prospect doesn't decide and move forward with LeanVision quote after two hours of interactions, then they're likely not the best type of customer fit for Agilion.  We want customers who can make decisions.
-5. Upon acceptance of a LeanVision quote, schedule the workshop and prep agreements and a new customer orientation.
+1. A request comes in.
+2. Schedule a 15-minute phone call and pre-qualify.
+3. If qualified send quote, else refer to someone better suited to help.
+4. Invest no more then two hours discussing or meeting with qualified prospect between the quote to close sales cycle.  If prospect doesn't decide to accept/reject LeanVision quote after two hours of interactions, then they're likely not the best type of customer fit for Agilion.  We want customers who make decisions.
+5. Upon acceptance of a LeanVision quote, schedule workshop and prepare agreements and new customer orientation.
 
 #### 11. Tech Stack Fundamentals
 
