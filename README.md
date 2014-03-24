@@ -2,7 +2,9 @@
 
 For employees and customers.
 
+
 ##Hello World 
+
 Welcome to Agilion.
 
 We believe good software helps solve problems and enables people to do great things in this life.
@@ -13,7 +15,6 @@ We're a web and mobile application development agency that serves customers in t
 
 We hope you'll join us as either a loyal customer or exceptional member of our team.
      
-  
 ##Vision
 
 Agilion creates a positive impact in the world by bringing valuable products to market.
@@ -23,16 +24,16 @@ Our highly skilled team is always improving and supporting our customers and emp
 ##Values
 
 ###High Standards
-Agilion values people and results.  Happy people produce high quality work.  Constant progress leads to happiness and fulfillment.  Agilion sets high standards and encourages continuous progression and stretch goals in all that we do.
+Agilion values people and results.  Happy people produce high quality work.  Agilion sets high standards and encourages continuous progression and stretch goals in all that we do.  We encourage progress over perfectionism.  Constant progress leads to happiness and fulfillment.
 
 ###Respectful communication
 Concise, clear and consistent communication is key to product and team success.  Regularly scheduled communications between Agilion and customers builds trust.
 
 ###Simplicity
-The height of knowledge cultivation and understanding problems leads to simplicity in solutions and actions.  We seek simplicity in our product designs, user interactions, technical solutions, communications, processes.  Simplicity isn't always easy, and sometimes the path is complex to navigate, but ultimately we strive towards simplicity as a cornerstone for getting things done.
+We seek simplicity in our product designs, user interactions, technical solutions, communications, processes.  Simplicity isn't always easy, and sometimes the path is complex to navigate, but ultimately we strive towards simplicity as a cornerstone for getting things done.
 
 ###Focus
-The art of triaging priorities and setting one main goal or objective at a time allows the team to progress faster on the most important things with fewer distractions.  Focus leads to quality results.
+The art of triaging priorities and setting one main goal or objective at a time allows the team to go faster on the most important things with fewer distractions.  Focus leads to quality results.
 
 ###Repeatable process
 Agilion is a highly innovative and creative agency.  We value repeatable and predictable processes that allows us to focus on our highest level work and minimize risks associated with delivering new products.
@@ -276,14 +277,13 @@ Here are some general guidelines for developers at Agilion when communicating wi
 
 It is critical for a new employee ramp-up period to be as fast and as smooth as possible.
 
-Within 90 days a new employee must be effectively succeeding on the the three Agilion expectations: *Billable hours, positive attitude, company values*.  Continued employment after the 90 day probationary period is contingent on  meeting the Agilion expectations.
-
 First 90 day benchmarks for new employees
 
 *Day 1*
 
-* Access and accounts to all things: *new email, Github, web services, etc.*
-* Localhost set-up & orientation on tech-stacks and Agilion documentation 
+* Gain access and setup accounts to all things: * email, Github, web services, etc.*
+* Set-up your localhost  environment 
+* Orientation on tech-stacks and Agilion documentation 
 * Open your first pull request to add your bio to company website
 
 *Day 2*
@@ -294,19 +294,14 @@ First 90 day benchmarks for new employees
 *Day 3 - 10*
 
 * Kick-off an internal Agilion project  (i.e.: Marketing website, internal tools, etc)
-* Learn Agilion processes and basic tech stack
-* The team will be looking to catch you doing something right, and provide positive feedback
 
 *Day 11 - 90*
 
-* Integrate into billable contracts; (Agilion may or may not bill out your hours depending on the results)
-* Learn Agilion processes and basic tech stack
-* The team will be looking to catch you doing something right, and provide positive feedback
+* Work with team to integrate into billable contracts; (Agilion may or may not bill out your hours depending on the results)
 
 *Day 90+* 
 
-* Collective decision will be made to retain you on the team or let you go based on your results of the first 90 days.
-* You will now do your own goal setting, direct yourself to contracts, and become remarkable to the organization.  
+* After 90 days, you'll be expected to direct yourself onto contracts and become remarkable to the organization.  
 
 #### 5. Team decision making
 
@@ -440,11 +435,11 @@ Agilion sales process
 4. Spend no more then two hours discussing questions with a prospect about LeanVision or work we do at Agilion throughout their sales cycle (i.e.: from first contact to quote).    If a prospect doesn't decide and move forward with LeanVision quote after two hours of interactions, then they're likely not the best type of customer fit for Agilion.  We want customers who can make decisions.
 5. Upon acceptance of a LeanVision quote, schedule the workshop and prep agreements and a new customer orientation.
 
-#### 11. Tech Steck Fundamentals
-
-Technology and tools change fast, but an individual's core competencies, depth of understanding and ability to apply best practices is an ongoing path of mastery. 
+#### 11. Tech Stack Fundamentals
 
 At Agilion, we are fairly technology agnostic, but must ensure at the most basic level everyone on the team has a grasp of the current tech stack we most often employ.
+
+Technology and tools change fast.   We keep up and use the right tool for the job.
 
 **The basics** that everyone at Agilion must understand at both a theoretical and technical level:
 
@@ -469,7 +464,6 @@ At Agilion, we are fairly technology agnostic, but must ensure at the most basic
 * Less css-pre processor ( http://lesscss.org/ )
 * Ruby on rails server-side framework  ( http://rubyonrails.org/ )
 * Ember javascript framework ( http://emberjs.com/ )
-
 
 
 ##Agilion team
@@ -497,15 +491,15 @@ At Agilion, we are fairly technology agnostic, but must ensure at the most basic
 | Stripe.com | Credit card receipt processing  | Satisfied |
 | SVB.com | Primary bank account and credit card | Ok for now |
 | Paypal.com | Secondary money account  | Ok for now |
-| ADP.com | Payroll processing | Seeking to replace |
 | Dunkielsaunders.com | Legal advice and lawyer | Satisfied |
 | Hwhcpas.com | Financial advice, tax filings and accountant | Satisfied |
+| Bookkeeper360.com | Bookkeeping and payroll services | Satisfied |
 | Bizfilings.com | Business registrant | Satisfied |
-| Bookkeeper360.com | Bookkeeping services | Satisfied |
 | Godady.com | Domain names | Ok for now |
 | Networksolutions.com | .IO Domain names | Seeking to replace |
 | Heroku.com | App hosting and services | Ok for now  |
 | aws.amazon.com | App hosting and services | Satisfied  |
+
 
 
 
