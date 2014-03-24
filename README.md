@@ -2,6 +2,19 @@
 
 For employees and customers.
 
+##### Table of Contents 
+
+* [Hello World](#hello-world)
+* [Vision](#vision)
+* [Values](#values)
+* [Services](#services)
+* [Goals](#goals)
+* [Business model](#business-model)
+* [Governance](#governance)
+* [Processes](#processes)
+* [Team](#team)
+* [Vendors](#vendors) 
+
 
 ##Hello World 
 
@@ -69,7 +82,7 @@ Nine exceptional employees with $1.4M booked revenue and 33% profitability by De
 ###Current month goal 
 Hire two exceptional employees. 
 
-##Agilion business model
+##Business model
 
 Simple Version. 
 
@@ -80,7 +93,7 @@ Simple Version.
 
 The Business Model Canvas version is located in Agilion's LucidChart account.
 
-##Agilion governance
+##Governance
 
 ###Philosophy
 
@@ -212,7 +225,7 @@ General grounds for dismissal are as follows:
 * Failing to meet company expectations (i.e.: low billable hours, poor attitude, not fitting in with agilion values)
 * Legal issues that are cause for dismissal
 
-##Agilion processes
+##Processes
 
 ###Why we have processes
 
@@ -466,7 +479,7 @@ Technology and tools change fast.   We keep up and use the right tool for the jo
 * Ember javascript framework ( http://emberjs.com/ )
 
 
-##Agilion team
+##Team
 
 ###Adam
 ###Pete
@@ -475,7 +488,7 @@ Technology and tools change fast.   We keep up and use the right tool for the jo
 ###Brendan
 
 
-##Agilion vendor & service providers
+##Vendors
 | Vendor/Service | Why | Satisfaction Level |
 | :-------------- | :--------  | :------------------ |
 | GoogleApps.com | Infrastructure of Email, Calendar, Docs, Spreadsheets |  Satisfied |
