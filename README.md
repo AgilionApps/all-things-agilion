@@ -494,7 +494,7 @@ Technology and tools change fast.   We keep up and use the right tool for the jo
 | GoogleApps.com | Infrastructure of Email, Calendar, Docs, Spreadsheets |  Satisfied |
 | Github.com | Source code management, peer reviews and collaboration |  Satisfied |
 | Flowdock.com | Team chat and inbox - real-time communication and email repo |  Satisfied |
-| Trello.com | Team Kanban board for daily task collaboration |  Satisfied |
+| Trello.com | Kanban board for daily task collaboration |  Satisfied |
 | Moqups.com | Wire framing collaboration tool |  Satisfied |
 | LucidCharts.com | Diagraming collaboration tool |  Satisfied |
 | Letsfreckle.com | Team time tracking tools |  Satisfied |
@@ -508,10 +508,12 @@ Technology and tools change fast.   We keep up and use the right tool for the jo
 | Hwhcpas.com | Financial advice, tax filings and accountant | Satisfied |
 | Bookkeeper360.com | Bookkeeping and payroll services | Satisfied |
 | Bizfilings.com | Business registrant | Satisfied |
+| Docusign.com | contracts | Seeking to replace |
 | Godady.com | Domain names | Ok for now |
 | Networksolutions.com | .IO Domain names | Seeking to replace |
 | Heroku.com | App hosting and services | Ok for now  |
 | aws.amazon.com | App hosting and services | Satisfied  |
+| Wufoo.com | website contact form | Ok for now |
 
 
 
