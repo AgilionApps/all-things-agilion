@@ -88,7 +88,7 @@ Hire one exceptional employee.
 Simple Version. 
 
 1. Identify the 20% of our activities that generates 80% of our most profitable results and satisfied customers.
-2. Refine and package those 20% of our activities into products or services for customers at a fee.
+2. Refine and package those key activities into products or services to customers for a fee.
 3. Eliminate everything else.
 4. Repeat steps 1, 2 & 3.
 
