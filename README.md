@@ -172,11 +172,11 @@ We expect three things
 * Avg. 128 effective billable hours a month 
 * 1,536 effective billable hours a year.  
 
-When you work, we expect your highest quality billable work .  
+When you work, we expect your highest quality billable work.  
 When you rest, we expect you to rest.  
 When you learn, we expect you to learn fast and apply it.
 
-At Agilion, we value consistency and good creative energy.  We value quality.  We value greatness and efficiency.  If you're billing more than 40 hours a week, then we're going to be concerned that quality may be suffering.  We want an average of 32 solid, quality billable hours a week.  After that, we want you to learn, rest, and enjoy life.   While we don't track vacation or sick days, we expect that you'll take some time off periodically through the year.    When you take time off, we don't want you working or checking in. We want you well rested to come back bringing your highest quality work.
+At Agilion, we value consistency and good creative energy. We value quality.  We value greatness and efficiency. If you're billing more than 40 hours a week, then we're going to be concerned that quality may be suffering. We want an average of 32 solid, quality billable hours a week. After that, we want you to learn, rest, and enjoy life.   While we don't track vacation or sick days, we expect that you'll take some time off periodically through the year. When you take time off, we don't want you working or checking in. We want you well rested to come back bringing your highest quality work.
 
 ####Display a positive attitude
 
