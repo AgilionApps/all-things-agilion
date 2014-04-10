@@ -484,6 +484,7 @@ Understanding where to quickly find key information helps reduce un-billable adm
 
 While individuals are free to create whatever documentation they want, it is important as a company to keep things as simple as possible.
 The company has three directories in google Drive
+
 * Projects Dir  / ProjectName Dir
 * Management Dir
 * Templates Dir
