@@ -489,31 +489,105 @@ The company has three directories in google Drive
 * Management Dir
 * Templates Dir
 
-The naming convention for a ProjectName directory is *CustomerName-ProjectName*
+The naming convention for a ProjectName directory is *###-CustomerName-ProjectName*
 
 **Company documentation guide**
 
-| Location | Document Artifact | Purpose | Activity |
-| :----------- | :------------------------  | :----------- | :--------- |
-| LucidCharts - Products Dir | LeanVision: 1-page business canvas|  Describes a business overview for the Agilion team in a single page | First draft completed during LeanVision workshop and then updated as as necessary |
-| GoogleDrive - Projects Dir | LeanVision: 1-page roadmap, product plan, success scenarios & user stories |  A spreadsheet with 4 sheets:  Roadmap communicates all projects for the customer and the sequence as to how they fit into the big vision. Product plan communicates the project goal, status, budget and major tasks for the project we're working on.   Success scenarios communicate a narrative of what success looks like from an overall user experience for each user role.   User stories communicates desired outcomes from a user perspective relating to major tasks in the product plan and should reference success scenarios and concept wireframes | Updated as frequently as necessary |
-| Moqups  | Concept wireframes |  Communicates UX of product and relates to the product plan, success scenarios and user stories  | First draft set-up during a LeanVision workshop and then ALWAYS updated to stay ahead of design and development along the way.  Best practice is to make revisions and leverage the tool as a conversation aid  |
-| Trello  | Kanban discussion board |  Communicates who is working on what at Agilion, and serves as a place to organize feedback and notes  | The team should use this tool to organize what they need to do to make the product plan happen.  Customers can see an overview of who is working on what at any given time, and it serves as a discussion tool and place to organize feedback on specific actions |
-| GoogleDrive - Management Dir   | Portfolio and budgets |  Tracks status, project leads, and budgets across all customer projects  | Adam updates this overview after each invoice period on the 1st & 16th of the month. Used to keep a high level view across the business and ensure resources are focusing on the right projects for both the business and customers |
-| GoogleDrive - Management Dir   | Agilion product ideas |  Capture product ideas and incubate for potential execution at a future date  | Update whenever you have an idea for team consideration |
-| GoogleDrive - Management Dir   | Compensation and financial projections |  Communicate compensation details and the financial modeling for various growth scenarios  | Adam updates these projections after the financial bookkeeper reviews each month |
-| GoogleDrive - Management Dir   | Customer revenue and satisfaction |  Communicates our customer history and tracks the relationship status.  Our goal is to develop long-term relationships with the right type of customers. This tool is used for a continuous 80/20 analysis on our best customers   | Adam updates these after the financial bookkeeper reviews each month |
-| Github    | All Things Agilion |  Communicate all things about Agilion to both customers and employees, document and describe all internal processes.   | Anyone can open a PR to suggest an update.  This should be treated like a 'constitution' that we all can buy into as an organization. |
-| GoogleDrive - Management Dir      | Case studies and lessons learned |  Communicates retrospectives on projects and documents the lessons learned for team shared knowledge and continuous improvement. These studies will also help for publishing marketing stories   | Update as frequently as necessary |
-| GoogleDrive - Templates Dir  | Employee agreement |  Employees agree to safeguard confidential information and accept employment  | Update as frequently as necessary |
-| GoogleDrive - Templates Dir  | Customer terms of service |  Customers agree to safeguard confidential information and accept our Agilion agency terms of service that is described in our quotes  | Update as frequently as necessary |
-| GoogleDrive - Templates Dir  | Independent Contractor agreement |  Contractors agree to safeguard confidential information and accept agreement terms  | Update as frequently as necessary |
-| GoogleDrive - Templates Dir  | LeanVision quote |  Proposal for LeanVision workshop  | Update as frequently as necessary |
-| GoogleDrive - Templates Dir  | Development & consulting quote |  Proposal for hourly consulting with monthly budgeting increments  | Update as frequently as necessary |
-| GoogleDrive - Templates Dir  | Employee offer letter |  Offer letter with compensation and details on working at Agilion  | Update as frequently as necessary |
-| GoogleDrive - Templates Dir  | Employee welcome letter |  1-page welcome and congratulations letter  | Update as frequently as necessary |
+
+| Location | Document Artifact | Status |
+| :----------- | :------------------------  | :----------- |
+| LucidCharts - Products Dir | LeanVision: 1-page business canvas| satisfied |
+| GoogleDrive - Projects Dir | LeanVision: Product planning |  satisfied |
+| Moqups  | Concept wireframes | satisfied  |
+| Trello  | Kanban discussion board |  satisfied |
+| GoogleDrive - Management Dir   | Portfolio and budgets |  satisfied |
+| GoogleDrive - Management Dir   | Agilion product ideas |  satisfied |
+| GoogleDrive - Management Dir   | Compensation and financial projections | satisfied |
+| GoogleDrive - Management Dir   | Customer revenue and satisfaction | satisfied |
+| Github    | All Things Agilion | satisfied |
+| GoogleDrive - Management Dir    | Case studies and lessons learned |  concept |
+| GoogleDrive - Templates Dir  | Employee agreement |  concept |
+| GoogleDrive - Templates Dir  | Customer terms of service |  concept |
+| GoogleDrive - Templates Dir  | Independent Contractor agreement |  concept |
+| GoogleDrive - Templates Dir  | LeanVision quote |  satisfied |
+| GoogleDrive - Templates Dir  | Development & consulting quote |  concept |
+| GoogleDrive - Templates Dir  | Employee offer letter |  concept |
+| GoogleDrive - Templates Dir  | Employee welcome letter |  concept |
 | GoogleDrive - Templates Dir  | Customer welcome letter |  1-page welcome and congratulations letter  | Update as frequently as necessary |
 
+#####LeanVision: 1-page business canvas
+
+An overview on all the most important aspects of the business on a single page.  Provides high-level context for the Agilion team.   The first draft is completed during the LeanVision workshop and then updated when things change along the way.
+
+#####LeanVision: product planning
+
+This is a spreadsheet with four sheets: Roadmap, 1-page plan, user roles, user stories.  The roadmap communicates the sequence of big initiatives and how much budget is available for the big vision.   the p1-page product plan communicates the mail goal, status, budget and major tasks for the project Agilion is currently working on.   The user roles outline a narrative of what success looks like from an overall user experience for each user role.   User stories communicates desired outcomes from a user perspective relating to major tasks in the product plan and should reference success scenarios and concept wireframes.  Agilion continually updates this document with customers as ideas  and priorities are refined and changed.
+
+#####Concept wireframes
+
+ Communicates user experience of a product as it relates to the product plan.  The first draft set-up during a LeanVision workshop and then ALWAYS updated to stay ahead of design and development along the way.  Best practice is to mark revisions at various times and leverage the Moqups tool as a conversation aid.
+
+#####Kanban discussion board
+
+Like lean manufacturing, this communicates who is working on a given action for project at Agilion at any point in time.  It serves as a place to organize feedback and notes related to major benefits of the product.   The team uses this tool to organize what they need to do to make the product plan happen.  It is also a place for customers to leave comments and attach references as needed to specific work actions.
+
+#####Portfolio and budget overview
+
+This spreadsheet helps tracks overall project status, current project lead, and the budgets across all customer projects .   Adam updates this overview after each invoice period on the 1st & 16th of the month. Used to keep a high level view across the business and ensure resources are focusing on the right projects for both the business and customers 
+
+#####Agilion product ideas
+
+This spreadsheet helps the team list internal product ideas and allows the ideas to incubate for potential execution at a future date.   The team updates this list whenever someone has an idea for team consideration.
+
+#####Compensation and financial projections
+
+Communicates the compensation details and financial modeling for various growth scenarios during the current fiscal year.    Adam updates these projections after each monthly bookkeeper review of the company finances.
+
+#####Customer satisfaction and revenue history
+
+Communicates our customer history and tracks the relationship status.  Agilion builds long term relationships with customers, and this tool is used for a continuous 80/20 analysis on our best customer relationships.   Adam updates the list after each monthly bookkeeper review of the company finances.
+
+#####All Things Agilion
+
+Communicates and describes as much as possible to both customers and employees on why, how and what we do.   Any employee can open a Pull Request to suggest updates.   This should be treated like a 'constitution' that we all can buy into as an organization.  Adam provides the final merge approval to ensure a single author voice throughout the document.
+
+#####Case studies and lessons learned
+
+Communicates retrospectives on projects and documents the lessons learned for team shared knowledge and continuous improvement. These studies will also help for publishing marketing stories. Update as frequently as necessary
+
+#####Employee agreement template
+
+Employees agree to safeguard confidential information and accept employment.   Update template as necessary.
+
+#####Customer terms of service
+
+Customers agree to safeguard confidential information and accept our Agilion agency terms of service that is described in our quotes.  Update template as necessary.
+
+#####Independent contractor agreement
+
+Contractors agree to safeguard confidential information and accept agreement terms.  Update template as necessary.
+
+#####LeanVision quote template
+
+Proposal template for LeanVision workshop.  Update template as necessary.
+
+#####Development & consulting quote template 
+
+Proposal template for hourly consulting.  Update template as necessary.
+
+#####Employee Offer Letter template
+
+Offer letter template with compensation and details on working at Agilion.  Update template as necessary.
+
+#####Employee Welcome letter template
+
+1-page welcome and congratulations letter template. Update as necessary.
+
+#####Customer Welcome letter template
+
+1-page welcome and congratulations letter template. Update as necessary.
+
+ 
 
 ##Team
 
