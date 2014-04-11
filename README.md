@@ -513,7 +513,7 @@ The naming convention for a ProjectName directory is *###-CustomerName-ProjectNa
 | GoogleDrive - Templates Dir  | Development & consulting quote |  concept |
 | GoogleDrive - Templates Dir  | Employee offer letter |  concept |
 | GoogleDrive - Templates Dir  | Employee welcome letter |  concept |
-| GoogleDrive - Templates Dir  | Customer welcome letter |  1-page welcome and congratulations letter  | Update as frequently as necessary |
+| GoogleDrive - Templates Dir  | concept |
 
 #####LeanVision: 1-page business canvas
 
