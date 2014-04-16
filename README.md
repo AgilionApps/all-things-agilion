@@ -434,7 +434,7 @@ General sequence of product development activity includes
 
 *Expenses*
 
-1. We run lean on purpose, but ensure employees have tools needed for successful. 
+1. We run lean on purpose, but employees have an accountable expense plan (see compensation plan for budget) to buy tools they need to be successful. 
 2. Partners must approve all company expenses.
 3. In general Agilion pays for team meals, office, key vendors and subscriptions, marketing and sales operations.
 
