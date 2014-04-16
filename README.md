@@ -485,19 +485,19 @@ Understanding where to quickly find key information helps reduce un-billable adm
 While individuals are free to create whatever documentation they want, it is important as a company to keep things as simple as possible.
 The company has three directories in google Drive
 
-* Projects Dir  / ProjectName Dir
+* Customers Dir  
 * Management Dir
 * Templates Dir
 
-The naming convention for a ProjectName directory is *###-CustomerName-ProjectName*
+The naming convention for a Customer directory is *###-CustomerName*
 
 **Company documentation guide**
 
 
 | Location | Document Artifact | Status |
 | :----------- | :------------------------  | :----------- |
-| LucidCharts - Products Dir | LeanVision: 1-page business canvas| satisfied |
-| GoogleDrive - Projects Dir | LeanVision: Product planning |  satisfied |
+| LucidCharts - Customers Dir | LeanVision: Business canvas| satisfied |
+| GoogleDrive - Customers Dir | LeanVision: Planning |  satisfied |
 | Moqups  | Concept wireframes | satisfied  |
 | Trello  | Kanban discussion board |  satisfied |
 | GoogleDrive - Management Dir   | Portfolio and budgets |  satisfied |
