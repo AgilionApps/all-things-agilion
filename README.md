@@ -422,19 +422,19 @@ General sequence of product development activity includes
 *Customer Billings*
 
 1. Upfront fee for LeanVision Workshop
-2. Customer deposits budget for the next month in 3rd party escrow account.
-3. Agilion invoices on the 1st & 16th of each month based on billable hours.
-4. Invoices are paid automatically from escrow account.
+2. Customer's deposit budget for next month in 3rd party escrow account.
+3. Agilion sends invoices on 1st & 16th of each month based on billable hours.
+4. Invoices are paid automatically from escrow account within 7 days of invoice.
 
 *Time tracking*
 
-1. Everyone records billable time through LetsFreckle the same day you did the work.
-2. Anyone can check LetsFreckle *pulse* to see who is billing time on which projects
-3. Everyone must write a brief and descriptive log of what they did on the time record.  Example: *Customer check-in, plan and code XYZ task*
+1. Everyone records billable time (maker time) through LetsFreckle the same day work was completed.
+2. Anyone may check LetsFreckle *pulse* to see who is billing on which projects
+3. Write a brief and descriptive log for time records.  Example: *Customer check-in, review wireframes for user login UX, pseudo code approach, and implement the OAuth Gem.*
 
 *Expenses*
 
-1. We run lean on purpose, but we'll ensure you have what you need to be successful. 
+1. We run lean on purpose, but employees have an accountable expense plan (see compensation plan for budget) to buy tools they need to be successful. 
 2. Partners must approve all company expenses.
 3. In general Agilion pays for team meals, office, key vendors and subscriptions, marketing and sales operations.
 
