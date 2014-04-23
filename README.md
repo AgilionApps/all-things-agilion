@@ -74,11 +74,11 @@ LeanVision is a prerequisite for product development.
 ##Goals
 
 ###Big goal 
-Grow a happy and productive team maintaining 80% loyal customer base reaching $25M annual revenue through products and services.  
+Make a positive difference in the world. Grow a happy and productive team maintaining 80% loyal customer base reaching $25M annual revenue through products and services.  
 
 ###This year goal
 
-Highly satisfied customers and seven exceptional employees.   At least 75% revenue growth over last year and a 33% profitability margin by Dec 31st, 2014.
+Highly satisfied customers and seven exceptional employees.   At least 100% revenue growth over last year and a 33% profitability margin by Dec 31st, 2014.
 
 ###Current month goal 
 Hire one exceptional employee. 
