@@ -2,7 +2,7 @@
 
 For employees and customers.
 
-##### Table of Contents 
+##### Table of Contents
 
 * [Hello World](#hello-world)
 * [Vision](#vision)
@@ -13,26 +13,26 @@ For employees and customers.
 * [Governance](#governance)
 * [Processes](#processes)
 * [Team](#team)
-* [Vendors](#vendors) 
+* [Vendors](#vendors)
 
 
-##Hello World 
+##Hello World
 
 Welcome to Agilion.
 
 We believe good software helps solve problems and enables people to do great things in this life.
 
-We've formed an exceptional team of product and software development professionals who take pride in helping customers refine ideas, build, iterate and launch web based products. 
+We've formed an exceptional team of product and software development professionals who take pride in helping customers refine ideas, build, iterate and launch web based products.
 
 We're a web and mobile application development agency that serves customers in the Northeast region of the United States.
 
 We hope you'll join us as either a loyal customer or exceptional member of our team.
-     
+
 ##Vision
 
 Agilion creates a positive impact in the world by bringing valuable products to market.
 
-Our highly skilled team is always improving and supporting our customers and employees.  We foster an environment that empowers team and individual progress towards *purpose*, *mastery* and *autonomy*.    
+Our highly skilled team is always improving and supporting our customers and employees.  We foster an environment that empowers team and individual progress towards *purpose*, *mastery* and *autonomy*.
 
 ##Values
 
@@ -50,7 +50,7 @@ The art of triaging priorities and setting one main goal or objective at a time 
 
 ###Repeatable process
 Agilion is a highly innovative and creative agency.  We value repeatable and predictable processes that allows us to focus on our highest level work and minimize risks associated with delivering new products.
- 
+
 ###Always learning
 Successful people never stop acquiring specialized knowledge in their chosen profession.  Our people are always seeking to better themselves and their skills which allows Agilion to always remain competitively relevant and in high demand.
 
@@ -61,31 +61,31 @@ We believe everyone at Agilion is able to view and offer opinions on anything th
 
 ###Hourly consulting
 
-The team is the product.  
+The team is the product.
 
 Our people are highly skilled and great at what we do.  We leverage our team and a development process that delivers predictable results.    Hourly consulting and development is scheduled in monthly increments depending on needs and scope of the project.
 
 ###LeanVision workshop
 
-Agilion is known for our ability to quickly filter information and facilitate sessions that provide clear purpose and focus for product development.  The single day LeanVision workshop is designed to bring out the essentials of product discovery and prepare a team for an effective first iteration of hourly consulting.  
+Agilion is known for our ability to quickly filter information and facilitate sessions that provide clear purpose and focus for product development.  The single day LeanVision workshop is designed to bring out the essentials of product discovery and prepare a team for an effective first iteration of hourly consulting.
 
 LeanVision is a prerequisite for product development.
 
 ##Goals
 
-###Big goal 
-Make a positive difference in the world. Grow a happy and productive team maintaining 80% loyal customer base reaching $25M annual revenue through products and services.  
+###Big goal
+Make a positive difference in the world. Grow a happy and productive team maintaining 80% loyal customer base reaching $25M annual revenue through products and services.
 
 ###This year goal
 
 Highly satisfied customers and seven exceptional employees.   At least 100% revenue growth over last year and a 33% profitability margin by Dec 31st, 2014.
 
-###Current month goal 
-Hire one exceptional employee. 
+###Current month goal
+Hire one exceptional employee.
 
 ##Business model
 
-Simple Version. 
+Simple Version.
 
 1. Identify the 20% of our activities that generates 80% of our most profitable results and satisfied customers.
 2. Refine and package those key activities into products or services to customers for a fee.
@@ -98,54 +98,54 @@ The Business Model Canvas version is located in Agilion's LucidChart account.
 
 ###Philosophy
 
-Our team enjoys the work we do and the people we work with.  
+Our team enjoys the work we do and the people we work with.
 
 Self-directed and self-motivated people thrive at Agilion, others won't last long in the organization.
 
 The company operates much like a Holacracy in accordance with shared vision and goals.  We seek the contribution of everyone at Agilion to continue shaping our culture and brand.
 
-Agilion is owned and managed by partner owners who are responsible to clarify and steer company vision, strategy and process when necessary.   
+Agilion is owned and managed by partner owners who are responsible to clarify and steer company vision, strategy and process when necessary.
 
 ###Roles
 
-Everyone at Agilion is a manager of one:  *Themselves.* 
+Everyone at Agilion is a manager of one:  *Themselves.*
 
 Everyone is in charge of their own career, setting an example, and being responsible to make things happen.
 
-We trust everyone acts in accordance with the collective values and strives for success.  
+We trust everyone acts in accordance with the collective values and strives for success.
 
-We want employee's to be remarkable and work to create vast amounts of value for both the company and themselves.  
+We want employee's to be remarkable and work to create vast amounts of value for both the company and themselves.
 
-Being remarkable is measured in producing good results within the minimum billable hour requirement and helping to strengthen the reputation of Agilion as a premier product development agency.   
+Being remarkable is measured in producing good results within the minimum billable hour requirement and helping to strengthen the reputation of Agilion as a premier product development agency.
 
-Being remarkable happens through the gradual increase of experience across multiple domains while leveraging your highest skill and contribution through your core strength and competences.   
+Being remarkable happens through the gradual increase of experience across multiple domains while leveraging your highest skill and contribution through your core strength and competences.
 
-Everyone at Agilion may play aspects of all roles at Agilion from time to time or act where they see a need.   Our key to collective success is working well with the strengths of other members on our team.  
+Everyone at Agilion may play aspects of all roles at Agilion from time to time or act where they see a need.   Our key to collective success is working well with the strengths of other members on our team.
 
 Roles in the company are broken down into two categories:  *Makers & Managers*.
 
-####Maker roles 
+####Maker roles
 
 The role of the maker is to *build things.*
 
 Maker schedules require zero to minimal meetings and interruptions in order to achieve a mental state of flow and creative productivity.
 
 Success is measured by *quality billable deliverables.*
- 
+
 Maker roles include
 
 * **Designer**:  Conceptualizes UI/UX interactions through wire framing and client-side programming
 *  **Architect**: Designs solutions and integration plans through diagramming and written specifications
 * **Developer**: Creates applications through full-stack programming (server-side, front-end, API, Databases)
 
- 
+
 ####Manager roles
 
 The role of the manager is to *build relationships.*
 
-Manager schedules require more frequent task switching, communication and event scheduling in order to facilitate others outside the organization to contribute towards the success of the company.  
+Manager schedules require more frequent task switching, communication and event scheduling in order to facilitate others outside the organization to contribute towards the success of the company.
 
-Success is measured by *growing the company influence, reputation and resources.* 
+Success is measured by *growing the company influence, reputation and resources.*
 
 Manager roles include
 
@@ -169,26 +169,37 @@ We expect three things
 
 ####Minimum effective billable hours
 * Avg. 32 effective billable hours a week
-* Avg. 128 effective billable hours a month 
-* 1,536 effective billable hours a year.  
+* Avg. 128 effective billable hours a month
+* 1,536 effective billable hours a year.
 
-When you work, we expect your highest quality billable work.  
-When you rest, we expect you to rest.  
+When you work, we expect your highest quality billable work.
+When you rest, we expect you to rest.
 When you learn, we expect you to learn fast and apply it.
 
 At Agilion, we value consistency and good creative energy. We value quality.  We value greatness and efficiency. If you're billing more than 40 hours a week, then we're going to be concerned that quality may be suffering. We want an average of 32 solid, quality billable hours a week. After that, we want you to learn, rest, and enjoy life.   While we don't track vacation or sick days, we expect that you'll take some time off periodically through the year. When you take time off, we don't want you working or checking in. We want you well rested to come back bringing your highest quality work.
 
+#####Agilion Holiday Schedule
+| Name | When |
+| :-------- |:---------- |
+| New Year's Day | January 1 |
+| Memorial Day | Last Monday in May |
+| Independence Day | July 4 |
+| Labor Day | First Monday in September |
+| [Programmer's Day](http://en.wikipedia.org/wiki/Programmers'_Day) | 256th day of the year (September 13; September 12 in leap years) |
+| Thanksgiving Day | Fourth Thursday in November |
+| Christmas Day | December 25 |
+
 ####Display a positive attitude
 
-Agilion has high standards and stretch goals.  
+Agilion has high standards and stretch goals.
 
-Our success comes from the success mindset of our team and customers.   
+Our success comes from the success mindset of our team and customers.
 
-Morale and happiness of the team is crucial.  No one likes a downer and *constant pessimist.  Negative energy cripples the health of a team which needs be creative and produce results.    Bring your best to the work environment and encourage others to do the same.   
+Morale and happiness of the team is crucial.  No one likes a downer and *constant pessimist.  Negative energy cripples the health of a team which needs be creative and produce results.    Bring your best to the work environment and encourage others to do the same.
 
 **constant pessimism is not to be confused with realistic project analysis and assessments.*
 
-All that being said.  No one can keep a positive outlook all the time. When you're having trouble with attitude, then we encourage the following 
+All that being said.  No one can keep a positive outlook all the time. When you're having trouble with attitude, then we encourage the following
 
 Three steps to work through negative emotions and regain positive outlook.
 
@@ -196,8 +207,8 @@ Three steps to work through negative emotions and regain positive outlook.
 
 2. **Reflect on what you accomplished**.  When feeling negative or stressed, it is helpful to reflect on things you have done well, and what you have accomplished so far in the given hour, day, week, month or even your life if you feel things haven't gone well lately.  Try to be grateful for things, and then re-focus your energy and build your confidence for the task at hand.
 
-3.  **Change your perspective**.  After you've done the above, then take a moment to think about how you're thinking about the problem.  Can you explore any new angles?  Seek collaboration with the team and customers when appropriate.   Determine potential solutions for the problem, and then solve it.  Solving things is why you get paid.   
- 
+3.  **Change your perspective**.  After you've done the above, then take a moment to think about how you're thinking about the problem.  Can you explore any new angles?  Seek collaboration with the team and customers when appropriate.   Determine potential solutions for the problem, and then solve it.  Solving things is why you get paid.
+
 ####Adopt Agilion values
 
 Act and resonate with a level of commitment matching Agilion values.  If it feels natural to you, then you’ll do very well.   If it doesn't, then it's best for everyone if you move on to another organization and seek collaboration with others that match your values.
@@ -211,13 +222,13 @@ Act and resonate with a level of commitment matching Agilion values.  If it feel
 
 ###Hiring & firing
 
-Hiring and firing is a collective decision making process.   
+Hiring and firing is a collective decision making process.
 
 We always seek people with highest potential.  We seek high achievers and people who strive for success.
 
 If someone isn’t able to excel at Agilion, then it’s likely a symptom of not being able to work as a team member or produce results through self-direction.
 
-Ultimately, unanimous partner decision is needed to hire or fire an employee.  
+Ultimately, unanimous partner decision is needed to hire or fire an employee.
 
 General grounds for dismissal are as follows:
 
@@ -228,11 +239,11 @@ General grounds for dismissal are as follows:
 
 ###Why we have processes
 
-As Richard Branson once said:  "*What works once may never work again. What everyone tells you never to do may just work, once. There are no rules.* "  
+As Richard Branson once said:  "*What works once may never work again. What everyone tells you never to do may just work, once. There are no rules.* "
 
-Agilion's highest value is approaching every new situation with a unique ability to understand core problems, then innovate and produce solutions by leveraging the skill and experience of our product team.  
+Agilion's highest value is approaching every new situation with a unique ability to understand core problems, then innovate and produce solutions by leveraging the skill and experience of our product team.
 
-Any other activity in our business is subject to elimination, outsourcing, or processes.  We do this so that our creative energy can be free towards adding the most value for ourselves and customers.  
+Any other activity in our business is subject to elimination, outsourcing, or processes.  We do this so that our creative energy can be free towards adding the most value for ourselves and customers.
 
 Agilion's processes.
 
@@ -246,7 +257,7 @@ Agilion's processes.
 8. Product development
 9. Billings, time tracking and expenses
 10. Sales
-11. Tech Stack Fundamentals 
+11. Tech Stack Fundamentals
 12. Reference documentation
 
 #### 1. Communication
@@ -270,7 +281,7 @@ Agilion's process for collaboration is as follows:
 1. A single problem is identified and articulated in observable and measurable terms.  (everything else is shelved for another collaboration session)
 2. A desired outcome for a solution is agreed upon.
 3. Everyone stays emotionally detached from any particular solution, how things should be, or any particular way of doing something.
-4. With open minds, the team discusses possible solutions.  
+4. With open minds, the team discusses possible solutions.
 5. When a good enough solution appears, the team breaks down high-level action items and formulates an implementation plan.
 
 #### 3. Customer engagement
@@ -279,7 +290,7 @@ Everyone at Agilion talks to customers.  There is no *project manager gatekeeper
 
 Here are some general guidelines for developers at Agilion when communicating with customers:
 
-1. Always be professional, polite and think about the goals from our customer perspective. 
+1. Always be professional, polite and think about the goals from our customer perspective.
 2. If you're not clear on what the customer wants, then get clear by asking specific questions.  Use the six-sigma "why" method to understand root level motivations if needed.
 3. Set clear expectations on when and why we communicate on a predictable schedule.   Agree on what type of information should be communicated immediately, vs. what can wait for checkins.  If a customer has a hard time prioritizing important actions vs. non-immediate distractions, then ask customer to verify the importance of requests to the LeanVision plan and main benefits.  Seek help from the team if needed.
 4. If a customer gives you a compliment, then reply with gratitude.
@@ -295,8 +306,8 @@ First 90 day benchmarks for new employees
 *Day 1*
 
 * Gain access and setup accounts to all things: * email, Github, web services, etc.*
-* Set-up your localhost  environment 
-* Orientation on tech-stacks and Agilion documentation 
+* Set-up your localhost  environment
+* Orientation on tech-stacks and Agilion documentation
 * Open your first pull request to add your bio to company website
 
 *Day 2*
@@ -312,15 +323,15 @@ First 90 day benchmarks for new employees
 
 * Work with team to integrate into billable contracts; (Agilion may or may not bill out your hours depending on the results)
 
-*Day 90+* 
+*Day 90+*
 
-* After 90 days, you'll be expected to direct yourself onto contracts and become remarkable to the organization.  
+* After 90 days, you'll be expected to direct yourself onto contracts and become remarkable to the organization.
 
 #### 5. Team decision making
 
-When possible the team enjoys making collective plans and decisions at weekly breakfast meetings that affect us all in the progression of our company. 
+When possible the team enjoys making collective plans and decisions at weekly breakfast meetings that affect us all in the progression of our company.
 
-However, as a company there will be thousands of micro decisions that must be made all the time. We expect you to make decisions and involve the right people when appropriate.   Some small decisions on projects require customer input, some don't.  Some decisions for the company require Partner level input, some don't.   A lot of times it doesn't make economic sense to drag in people from billable work for a group decision.  
+However, as a company there will be thousands of micro decisions that must be made all the time. We expect you to make decisions and involve the right people when appropriate.   Some small decisions on projects require customer input, some don't.  Some decisions for the company require Partner level input, some don't.   A lot of times it doesn't make economic sense to drag in people from billable work for a group decision.
 
 It also means you need to trust other people will make decisions without you because you're likely busy on billable work as well.
 
@@ -337,7 +348,7 @@ Every monday morning, Agilion reviews the status of each project in the portfoli
 All projects are tracked on Agilion's *Active Project Portfolio* spreadsheet.
 
 *Each project must have*
- 
+
 * designated project lead
 * clear purpose and main goal for Agilion
 * updated project status every monday
@@ -357,17 +368,17 @@ Any new project for Agilion must have gone through a 1-page LeanVision exercise 
 
 Based on the main goal and major tasks, customers are asked to set a do not exceed limit of hours on our monthly capacity budget towards the development of each task.     We work within those budget constraints and scope work accordingly.  The focus should be implementing elegant solutions with the least amount of time possible that still retains high quality.  If not enough time is budgeted for a task, then it's best to skip that task all together.
 
-At Agilion we do not set hard estimates or fixed date/fixed bid deliverables. 
+At Agilion we do not set hard estimates or fixed date/fixed bid deliverables.
 
-We believe web and mobile applications are always in constant improvement and iteration.  We do our best to communicate and iterate quickly which is always minimizing the customer cost at all times.   
+We believe web and mobile applications are always in constant improvement and iteration.  We do our best to communicate and iterate quickly which is always minimizing the customer cost at all times.
 
-Agilion does our best to approximate and guess hours for each major task at the beginning of each week, however this number is only a ball park guess and should be treated as such. 
+Agilion does our best to approximate and guess hours for each major task at the beginning of each week, however this number is only a ball park guess and should be treated as such.
 
-There is a catch-22 phenomena in project management.  As soon as you estimate a specific thing to be completed by a future date at a future cost, then you're already setting everyone up for broken promises and disappointments because no one is able to control external circumstances which may or may not occur.   
+There is a catch-22 phenomena in project management.  As soon as you estimate a specific thing to be completed by a future date at a future cost, then you're already setting everyone up for broken promises and disappointments because no one is able to control external circumstances which may or may not occur.
 
 On the other hand, if people are too timid, fearful or hesitant about setting targeted timeframes and they push expectations to far out into the future in fear of disappointing people when missing deadlines,  then the actual work may not be executed in the most effective way and it will expand to absorb the estimated timelines.
 
-This next concept, is something that we believe is a natural or universal law. 
+This next concept, is something that we believe is a natural or universal law.
 
 An individual is only able to *control* one thing:  **his or her own thoughts.**.
 
@@ -376,7 +387,7 @@ An individual at Agilion is able to *commit* to how they will operate.   They ca
 The art of project management and budgeting is thus to ensure plans are as clear as possible, are as simple as possible, communicated effectively as possible, and that people bring their best efforts to execute and deliver.
 
 If a prospect or customer does not understand this, laughs at this philosophy, or insists we provide fixed deadlines on specific deliverables, then it's best to not start any work agreement on that project with that prospect.  If it is a customer, then we should suggest alternative vendors and part ways amicably.
- 
+
 Here is an example of how we schedule work and communicate budget constraints:
 
 Scheduling is done within two constraints:
@@ -388,13 +399,13 @@ For example, an existing customer approaches us with a requirement for their pro
 
 Most likely Agilion will be at capacity for the current month.  So we'll inform the customer how many hours we have available.  An example project portfolio status may look like this:
 
-| Project | Current Month | Month 2 | Month 3 | 
-| :---------| :---------------------| :-------------| :----------- | 
+| Project | Current Month | Month 2 | Month 3 |
+| :---------| :---------------------| :-------------| :----------- |
 | Project 1 |  200 hrs | 200 hrs | 80 hrs |
 | Project 2 | 300 hrs | 200 hrs | - |
-| Project 3 | 80 hrs  | - | - | 
-| TOTAL | 580 hrs | 400 hrs | 80 hrs | 
-| % Capacity | FULL | 69% | 14% | 
+| Project 3 | 80 hrs  | - | - |
+| TOTAL | 580 hrs | 400 hrs | 80 hrs |
+| % Capacity | FULL | 69% | 14% |
 
 While prospects and customers may give verbal estimates of how many hours they want in the future, we can only reserve time when a customer physically allocates appropriate budget funds into a 3rd party escrow account.  Funds are only paid to Agilion when we've invoiced actual hours completed.  This is a win-win situation because it ensures customers fully commit to the work and we don't pass up other opportunities with our other loyal customers.  It provides customers with peace of mind that they only pay when service is delivered.
 
@@ -405,7 +416,7 @@ Then, the steps for project management estimates are very simple.  The customer 
 
 #### 8. Product development
 
-Leveraging conventions and constraints to develop products helps to ensure Agilion is able to better scope, estimate and complete projects with fewer unknowns.  
+Leveraging conventions and constraints to develop products helps to ensure Agilion is able to better scope, estimate and complete projects with fewer unknowns.
 
 General sequence of product development activity includes
 
@@ -434,7 +445,7 @@ General sequence of product development activity includes
 
 *Expenses*
 
-1. We run lean on purpose, but employees have an accountable expense plan (see compensation plan for budget) to buy tools they need to be successful. 
+1. We run lean on purpose, but employees have an accountable expense plan (see compensation plan for budget) to buy tools they need to be successful.
 2. Partners must approve all company expenses.
 3. In general Agilion pays for team meals, office, key vendors and subscriptions, marketing and sales operations.
 
@@ -485,7 +496,7 @@ Understanding where to quickly find key information helps reduce un-billable adm
 While individuals are free to create whatever documentation they want, it is important as a company to keep things as simple as possible.
 The company has three directories in google Drive
 
-* Customers Dir  
+* Customers Dir
 * Management Dir
 * Templates Dir
 
@@ -533,7 +544,7 @@ Like lean manufacturing, this communicates who is working on a given action for 
 
 #####Portfolio and budget overview
 
-This spreadsheet helps tracks overall project status, current project lead, and the budgets across all customer projects .   Adam updates this overview after each invoice period on the 1st & 16th of the month. Used to keep a high level view across the business and ensure resources are focusing on the right projects for both the business and customers 
+This spreadsheet helps tracks overall project status, current project lead, and the budgets across all customer projects .   Adam updates this overview after each invoice period on the 1st & 16th of the month. Used to keep a high level view across the business and ensure resources are focusing on the right projects for both the business and customers
 
 #####Agilion product ideas
 
@@ -571,7 +582,7 @@ Contractors agree to safeguard confidential information and accept agreement ter
 
 Proposal template for LeanVision workshop.  Update template as necessary.
 
-#####Development & consulting quote template 
+#####Development & consulting quote template
 
 Proposal template for hourly consulting.  Update template as necessary.
 
@@ -587,7 +598,7 @@ Offer letter template with compensation and details on working at Agilion.  Upda
 
 1-page welcome and congratulations letter template. Update as necessary.
 
- 
+
 
 ##Team
 
@@ -596,6 +607,7 @@ Offer letter template with compensation and details on working at Agilion.  Upda
 ###Alan
 ###Patrick
 ###Brendan
+###Jordan
 
 
 ##Vendors
