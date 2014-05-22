@@ -182,12 +182,10 @@ At Agilion, we value consistency and good creative energy. We value quality.  We
 | Name | When |
 | :-------- |:---------- |
 | New Year's Day | January 1 |
-| Martin Luther King, Jr. Day | Third Monday in January |
-| Washington's Birthday | Third Monday in February |
 | Memorial Day | Last Monday in May |
 | Independence Day | July 4 |
 | Labor Day | First Monday in September |
-| Veterans Day | November 11 |
+| [Programmer's Day](http://en.wikipedia.org/wiki/Programmers'_Day) | 256th day of the year (September 13; September 12 in leap years) |
 | Thanksgiving Day | Fourth Thursday in November |
 | Christmas Day | December 25 |
 
@@ -609,6 +607,7 @@ Offer letter template with compensation and details on working at Agilion.  Upda
 ###Alan
 ###Patrick
 ###Brendan
+###Jordan
 
 
 ##Vendors
