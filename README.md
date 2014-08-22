@@ -380,7 +380,7 @@ On the other hand, if people are too timid, fearful or hesitant about setting ta
 
 This next concept, is something that we believe is a natural or universal law.
 
-An individual is only able to *control* one thing:  **his or her own thoughts.**.
+An individual is only able to *control* one thing:  **their own thoughts.**.
 
 An individual at Agilion is able to *commit* to how they will operate.   They can commit to execute to the best of their ability within the time & budget constraints.   As a team, we will be creative, use constraints to our advantage and deliver in the best way we can while adapting to the changing external circumstances.
 
@@ -631,7 +631,7 @@ Offer letter template with compensation and details on working at Agilion.  Upda
 | Bookkeeper360.com | Bookkeeping and payroll services | Satisfied |
 | Bizfilings.com | Business registrant | Satisfied |
 | Docusign.com | contracts | Seeking to replace |
-| Godady.com | Domain names | Ok for now |
+| Godaddy.com | Domain names | Ok for now |
 | Networksolutions.com | .IO Domain names | Seeking to replace |
 | Heroku.com | App hosting and services | Ok for now  |
 | aws.amazon.com | App hosting and services | Satisfied  |
