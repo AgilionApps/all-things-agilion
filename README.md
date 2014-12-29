@@ -8,11 +8,9 @@ For employees and customers.
 * [Vision](#vision)
 * [Values](#values)
 * [Services](#services)
-* [Goals](#goals)
 * [Business model](#business-model)
 * [Governance](#governance)
 * [Processes](#processes)
-* [Team](#team)
 * [Vendors](#vendors)
 
 
@@ -71,17 +69,6 @@ Agilion is known for our ability to quickly filter information and facilitate se
 
 LeanVision is a prerequisite for product development.
 
-##Goals
-
-###Big goal
-Make a positive difference in the world. Grow a happy and productive team maintaining 80% loyal customer base reaching $25M annual revenue through products and services.
-
-###This year goal
-
-Highly satisfied customers and seven exceptional employees.   At least 100% revenue growth over last year and a 33% profitability margin by Dec 31st, 2014.
-
-###Current month goal
-Hire one exceptional employee.
 
 ##Business model
 
@@ -91,8 +78,6 @@ Simple Version.
 2. Refine and package those key activities into products or services to customers for a fee.
 3. Eliminate everything else.
 4. Repeat steps 1, 2 & 3.
-
-The Business Model Canvas version is located in Agilion's LucidChart account.
 
 ##Governance
 
@@ -313,7 +298,7 @@ First 90 day benchmarks for new employees
 *Day 2*
 
 * Shadow another employee on a contract for the day
-* Goal setting session with CEO
+* Goal setting session
 
 *Day 3 - 7*
 
@@ -599,17 +584,6 @@ Offer letter template with compensation and details on working at Agilion.  Upda
 1-page welcome and congratulations letter template. Update as necessary.
 
 
-
-##Team
-
-###Adam
-###Pete
-###Alan
-###Patrick
-###Brendan
-###Jordan
-
-
 ##Vendors
 | Vendor/Service | Why | Satisfaction Level |
 | :-------------- | :--------  | :------------------ |
@@ -622,17 +596,15 @@ Offer letter template with compensation and details on working at Agilion.  Upda
 | Letsfreckle.com | Team time tracking tools |  Satisfied |
 | agilion.quoteroller.com | Proposals |  Satisfied |
 | Xero.com | Accounting and invoicing tools |  Satisfied |
-| Bill.com | Checks receipt processing | Satisfied |
 | Stripe.com | Credit card receipt processing  | Satisfied |
 | SVB.com | Primary bank account and credit card | Ok for now |
 | Paypal.com | Secondary money account  | Ok for now |
 | Dunkielsaunders.com | Legal advice and lawyer | Satisfied |
 | Hwhcpas.com | Financial advice, tax filings and accountant | Satisfied |
-| Bookkeeper360.com | Bookkeeping and payroll services | Satisfied |
+| Virtualtechnique.com | Bookkeeping and payroll services | Satisfied |
 | Bizfilings.com | Business registrant | Satisfied |
-| Docusign.com | contracts | Seeking to replace |
 | Godaddy.com | Domain names | Ok for now |
-| Networksolutions.com | .IO Domain names | Seeking to replace |
+| Networksolutions.com | .IO Domain names | Ok for now |
 | Heroku.com | App hosting and services | Ok for now  |
 | aws.amazon.com | App hosting and services | Satisfied  |
 | Wufoo.com | website contact form | Ok for now |
