@@ -6,6 +6,7 @@ For employees and customers.
 
 * [Hello World](#hello-world)
 * [Vision](#vision)
+* [Motto](#motto)
 * [Values](#values)
 * [Services](#services)
 * [Business model](#business-model)
@@ -31,6 +32,10 @@ We hope you'll join us as either a loyal customer or exceptional member of our t
 Agilion creates a positive impact in the world by bringing valuable products to market.
 
 Our highly skilled team is always improving and supporting our customers and employees.  We foster an environment that empowers team and individual progress towards *purpose*, *mastery* and *autonomy*.
+
+##Motto
+
+Quality people building quality software
 
 ##Values
 
