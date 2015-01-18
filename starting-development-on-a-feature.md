@@ -4,7 +4,7 @@ The process a developer follows when beginning development on a feature. This pr
 
 ## How
 1. Move the ticket from Up Next to In Progress.
-1. Read and understand **what** the ticket is asking for, and most importantly **why** the feature is being requested. A clear understanding of the **why** for a feature will inform the entire development process. If the **what** and **why** of the feature are not clear from the ticket, discuss it with PM vian audio or video chat.
+1. Read and understand **what** the ticket is asking for, and most importantly **why** the feature is being requested. A clear understanding of the **why** for a feature will inform the entire development process. If the **what** and **why** of the feature are not clear from the ticket, discuss it with PM via audio or video chat.
 1. Research and understand:
   * API calls
   * Database architecture
