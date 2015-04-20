@@ -135,7 +135,7 @@ Success is measured by *growing the company influence, reputation and resources.
 
 Manager roles include
 
-*  **CEO**:  Create more value in the company andeliminate roadblocks.  Ensure right people; right roles.
+*  **CEO**:  Create more value in the company and eliminate roadblocks.  Ensure right people; right roles.
 *  **Marketing**: Position products within market demands, improve brand, turn customers into "evangelists"
 * **Sales**: Help people get what they want, increase demand through sales process, discover and grow channels
 *  **Operations**: Optimize internal systems and workflow automation
