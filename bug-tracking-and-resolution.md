@@ -1,7 +1,11 @@
 # Bug tracking and resolution
 This process is inspired by: http://www.joelonsoftware.com/articles/fog0000000029.html
+
 ## How to submit a bug
-Create a ticket (avoid dropping bugs in real-time chat). Include:
+If you are testing a fix or feature that has an existing ticket – and the issue
+you've found is small – add a comment to that ticket. Otherwise, if there is
+not a ticket – or the issue is large or a new feature request – create a new
+ticket. Avoid dropping bugs in real-time chat. Include:
 
 1. Steps to reproduce
 1. What you expected to see.
