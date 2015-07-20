@@ -610,7 +610,6 @@ Offer letter template with compensation and details on working at Agilion.  Upda
 | Networksolutions.com | .IO Domain names | Ok for now |
 | Heroku.com | App hosting and services | Ok for now  |
 | aws.amazon.com | App hosting and services | Satisfied  |
-
-
-
+| Typekit.com | Fonts for use on the web/ applications | Satisfied  |
+| Formkeep | Form endpoints for designers and developers | Satisfied  |
 
