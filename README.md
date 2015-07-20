@@ -603,17 +603,13 @@ Offer letter template with compensation and details on working at Agilion.  Upda
 | Xero.com | Accounting and invoicing tools |  Satisfied |
 | Stripe.com | Credit card receipt processing  | Satisfied |
 | SVB.com | Primary bank account and credit card | Ok for now |
-| Paypal.com | Secondary money account  | Ok for now |
 | Dunkielsaunders.com | Legal advice and lawyer | Satisfied |
 | Hwhcpas.com | Financial advice, tax filings and accountant | Satisfied |
 | Virtualtechnique.com | Bookkeeping and payroll services | Satisfied |
-| Bizfilings.com | Business registrant | Satisfied |
 | Godaddy.com | Domain names | Ok for now |
 | Networksolutions.com | .IO Domain names | Ok for now |
 | Heroku.com | App hosting and services | Ok for now  |
 | aws.amazon.com | App hosting and services | Satisfied  |
-| Wufoo.com | website contact form | Ok for now |
-
 
 
 
